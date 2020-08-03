@@ -18,7 +18,7 @@ Talented software programmer with Bachelor's and Master's degrees, strong educat
 - :collision: Error monitoring: Sentry
 - :construction_worker: Testing: Cypress, Jest, Enzyme
 
-## :computer: Frontend Technology Knowledge :white_check_mark:
+## Frontend Technology Knowledge :white_check_mark:
 - :scroll: Typescript, JavaScript, HTML & CSS
 - :electron: React.js, React Native, Redux
 - :dart: Flutter
