@@ -4,7 +4,7 @@
 
 Hard programming for the past 5+ years web planning, design and development - building mobile and web applications using React and Flutter that are interactive, responsive and intuitive with focus on maps, data visualizations, payment and authentication.
 
-Strong experience and knowledge with cloud services, automating processes, building pipelines, serverless functions and APIs using different cloud providers such as Azure, Firebase and Google Cloud Platform. Moreover, I write and run unit, integration and end-to-end tests with Cypress.
+Strong experience and knowledge with cloud services, automating processes, building pipelines, writing end-to-end tests, serverless functions and APIs using different cloud providers such as Azure, Firebase and Google Cloud Platform.
 
 Talented software programmer with Bachelor's and Master's degrees, strong educational background in programming, and experience using cutting-edge development tools and technologies whilst being productive in both team-based and self-managed project.
 
