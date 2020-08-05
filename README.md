@@ -15,8 +15,10 @@ Talented software programmer with Bachelor's and Master's degrees, strong educat
 - :floppy_disk: Databases: MySQL, PostgreSQL, MongoDB
 - :earth_americas: Maps libraries: Mapbox, Leaflet, Google Maps APIs
 - :bar_chart: Charts libraries: Plotly, Recharts, React-Vis
+- :paintbrush: Prototyping: Figma, Adobe XD
 - :collision: Error monitoring: Sentry
 - :construction_worker: Testing: Cypress, Jest, Enzyme
+
 
 ## Frontend Technology Knowledge :white_check_mark:
 - :scroll: Typescript, JavaScript, HTML & CSS
