@@ -12,8 +12,8 @@ Talented software programmer with Bachelor's and Master's degrees, strong educat
 - :closed_lock_with_key: Authentication: Auth0, Firebase, Azure AD
 - :credit_card: Payment processors: Stripe, Bambora, WePay, Elavon
 - 💬 Communication integrations: SendGrid, Twilio 
-- :floppy_disk: Databases: MySQL, PostgreSQL, MongoDB
-- :earth_americas: Maps libraries: Mapbox, Leaflet, Google Maps APIs
+- :floppy_disk: Databases: MySQL, PostgreSQL, MongoDB, Firestore
+- :earth_americas: Maps libraries: Mapbox, Leaflet, Google Maps APIs, OpenLayers
 - :bar_chart: Charts libraries: Plotly, Recharts, React-Vis
 - :paintbrush: Prototyping: Figma, Adobe XD
 - :collision: Error monitoring: Sentry
