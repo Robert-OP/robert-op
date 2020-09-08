@@ -22,7 +22,7 @@ Talented software programmer with Bachelor's and Master's degrees, strong educat
 
 ## Frontend Technology Knowledge :white_check_mark:
 - :scroll: Typescript, JavaScript, HTML & CSS
-- :electron: React.js, React Native, Redux
+- :electron: React.js, React Native, React Router, Redux
 - :dart: Flutter
 
 ## Backend Technology Knowledge :white_check_mark:
