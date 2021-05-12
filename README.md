@@ -9,10 +9,10 @@ Strong experience and knowledge with cloud services, automating processes, build
 Talented software programmer with Bachelor's and Master's degrees, strong educational background in programming, and experience using cutting-edge development tools and technologies whilst being productive in both team-based and self-managed project.
 
 ## Strong Skills and Experience :white_check_mark:
-- :closed_lock_with_key: Authentication: Auth0, Firebase, Azure AD
+- :closed_lock_with_key: Authentication: Auth0, Firebase, Azure AD B2C
 - :credit_card: Payment processors: Stripe, Bambora, WePay, Elavon
-- 💬 Communication integrations: SendGrid, Twilio 
-- :floppy_disk: Databases: MySQL, PostgreSQL, MongoDB, Firestore
+- 💬 Communication integrations: [Tidio](https://www.tidio.com/en/?ref=freebot), SendGrid, Twilio 
+- :floppy_disk: Databases: Firestore, MongoDB, MySQL, PostgreSQL
 - :earth_americas: Maps libraries: Mapbox, Leaflet, Google Maps APIs, OpenLayers
 - :bar_chart: Charts libraries: Plotly, Recharts, React-Vis
 - :paintbrush: Prototyping: Figma, Adobe XD
