@@ -10,7 +10,7 @@ Talented software programmer with Bachelor's and Master's degrees, strong educat
 
 ## Strong Skills and Experience :white_check_mark:
 - :closed_lock_with_key: Authentication: Auth0, Firebase, Azure AD B2C
-- :credit_card: Payment processors: Stripe, Bambora, WePay, Elavon
+- :credit_card: Payment processors: Stripe, Bambora, WePay
 - 💬 Communication integrations: [Tidio](https://www.tidio.com/en/?ref=freebot), SendGrid, Twilio 
 - :floppy_disk: Databases: Firestore, MongoDB, MySQL, PostgreSQL
 - :earth_americas: Maps libraries: Mapbox, Leaflet, Google Maps APIs, OpenLayers
@@ -27,6 +27,7 @@ Talented software programmer with Bachelor's and Master's degrees, strong educat
 
 ## Backend Technology Knowledge :white_check_mark:
 - :green_book: Node.js
+- 🙀 Nest.js
 - :snake: Python
 
 <!--
