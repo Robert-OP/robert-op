@@ -18,6 +18,7 @@ Talented software programmer with Bachelor's and Master's degrees, strong educat
 - :paintbrush: Prototyping: Figma, Adobe XD
 - :collision: Error monitoring: Sentry
 - :construction_worker: Testing: Cypress, Jest, Enzyme
+- 🛍️: Shopify, Hydrogen
 
 
 ## Frontend Technology Knowledge :white_check_mark:
