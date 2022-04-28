@@ -6,7 +6,7 @@ Hard programming for the past 5+ years web planning, design and development - bu
 
 Strong experience and knowledge with cloud services, automating processes, building pipelines, writing end-to-end tests, serverless functions and APIs using different cloud providers such as Azure, Firebase and Google Cloud Platform.
 
-Talented software programmer with Bachelor's and Master's degrees, strong educational background in programming, and experience using cutting-edge development tools and technologies whilst being productive in both team-based and self-managed project.
+Talented Software Engineer with Bachelor's and Master's degrees, strong educational background in programming, and experience using cutting-edge development tools and technologies whilst being productive in both team-based and self-managed project.
 
 ## Strong Skills and Experience :white_check_mark:
 - :closed_lock_with_key: Authentication: Auth0, Firebase, Azure AD B2C
@@ -18,11 +18,11 @@ Talented software programmer with Bachelor's and Master's degrees, strong educat
 - :paintbrush: Prototyping: Figma, Adobe XD
 - :collision: Error monitoring: Sentry
 - :construction_worker: Testing: Cypress, Jest, Enzyme
-- 🛍️: Shopify, Hydrogen
+- 🛍️: Shopify, Hydrogen, Thinkific
 
 
 ## Frontend Technology Knowledge :white_check_mark:
-- :scroll: Typescript, JavaScript, HTML & CSS
+- :scroll: Typescript, JavaScript, HTML & CSS, Tailwind CSS
 - :electron: React.js, React Native, React Router, Redux
 - :dart: Flutter
 
